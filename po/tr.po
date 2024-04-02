@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Airpod Battery Monitor\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-03-04 09:00-0800\n"
+"POT-Creation-Date: 2024-04-01 23:35-0700\n"
 "PO-Revision-Date: 2024-04-01 18:36+0300\n"
 "Last-Translator: Sabri Ünal <yakushabb@gmail.com>\n"
 "Language-Team: \n"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Poedit 3.4.2\n"
 
-#: lib/airpodPanel.js:18
+#: lib/airpodPanel.js:18 lib/airpodTrayIndicator.js:37
 msgid "AirPods Battery Monitor"
 msgstr "AirPods Pil Gözlemcisi"
 
@@ -46,11 +46,11 @@ msgstr "© %s %s"
 #: preferences/about.js:48
 #, javascript-format
 msgid ""
-"This application comes with absolutely no warranty. See the <a href=\"%s\">"
-"%s</a> for details."
+"This application comes with absolutely no warranty. See the <a "
+"href=\"%s\">%s</a> for details."
 msgstr ""
-"Bu uygulama kesinlikle hiçbir garanti vermiyor. Ayrıntılar için <a href="
-"\"%s\">%s</a> bağlantısına bakın."
+"Bu uygulama kesinlikle hiçbir garanti vermiyor. Ayrıntılar için <a "
+"href=\"%s\">%s</a> bağlantısına bakın."
 
 #: preferences/general.js:72
 msgid "(Removed)"
