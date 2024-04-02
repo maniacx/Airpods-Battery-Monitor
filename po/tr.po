@@ -1,0 +1,125 @@
+# Turkish translation for Airpod-Battery-Monitor@maniacx.github.com.
+# Copyright (C) 2024 Airpod-Battery-Monitor@maniacx.github.com's COPYRIGHT HOLDER
+# This file is distributed under the same license as the Airpod-Battery-Monitor@maniacx.github.com package.
+#
+# Sabri Ünal <yakushabb@gmail.com>, 2024.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Airpod Battery Monitor\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-03-04 09:00-0800\n"
+"PO-Revision-Date: 2024-04-01 18:36+0300\n"
+"Last-Translator: Sabri Ünal <yakushabb@gmail.com>\n"
+"Language-Team: \n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.2\n"
+
+#: lib/airpodPanel.js:18
+msgid "AirPods Battery Monitor"
+msgstr "AirPods Pil Gözlemcisi"
+
+#: lib/airpodPanel.js:26
+msgid "Headphone Battery Information"
+msgstr "Kulaklık Pil Bilgileri"
+
+#: lib/airpodPanel.js:253 lib/airpodTrayIndicator.js:245
+msgid "Scanning..."
+msgstr "Taranıyor..."
+
+#: lib/airpodPanel.js:306 lib/airpodTrayIndicator.js:288
+msgid "Last updated: "
+msgstr "Son güncelleme: "
+
+#: preferences/about.js:40
+msgid "GNU General Public License, version 3 or later"
+msgstr "GNU Genel Kamu Lisansı, sürüm 3 ya da sonrası"
+
+#: preferences/about.js:47
+#, javascript-format
+msgid "© %s %s"
+msgstr "© %s %s"
+
+#: preferences/about.js:48
+#, javascript-format
+msgid ""
+"This application comes with absolutely no warranty. See the <a href=\"%s\">"
+"%s</a> for details."
+msgstr ""
+"Bu uygulama kesinlikle hiçbir garanti vermiyor. Ayrıntılar için <a href="
+"\"%s\">%s</a> bağlantısına bakın."
+
+#: preferences/general.js:72
+msgid "(Removed)"
+msgstr "(Kaldırıldı)"
+
+#: preferences/general.js:73
+msgid "(Paired)"
+msgstr "(Eşlendi)"
+
+#: preferences/general.js:74
+msgid "(Connected)"
+msgstr "(Bağlı)"
+
+#: ui/about.ui:5
+msgid "About"
+msgstr "Hakkında"
+
+#: ui/about.ui:75
+msgid "Read me"
+msgstr "Beni Oku"
+
+#: ui/about.ui:97
+msgid "Report an Issue"
+msgstr "Sorun Bildir"
+
+#: ui/about.ui:114 ui/about.ui:197
+msgid "Translations"
+msgstr "Çeviriler"
+
+#: ui/about.ui:136
+msgid "View sources on Github"
+msgstr "Github'da kaynak kodunu görüntüle"
+
+#: ui/about.ui:153 ui/about.ui:271
+msgid "Legal"
+msgstr "Yasal"
+
+#: ui/about.ui:217
+msgid "Crowdin"
+msgstr "Crowdin"
+
+#: ui/about.ui:229
+msgid "Online Tutorials"
+msgstr "Çevrim İçi Eğitimler"
+
+#: ui/general.ui:5
+msgid "General"
+msgstr "Genel"
+
+#: ui/general.ui:10
+msgid "Settings"
+msgstr "Ayarlar"
+
+#: ui/general.ui:13
+msgid "Choose interface style"
+msgstr "Arayüz biçemi seç"
+
+#: ui/general.ui:28
+msgid "Choose Model of AirPods"
+msgstr "AirPods Modelini Seç"
+
+#: ui/general.ui:31
+msgid "No AirPods paired!"
+msgstr "Eşleştirilmiş AirPods yok!"
+
+#: ui/general.ui:38
+msgid "Meter Indicators with Message tray"
+msgstr "İleti Tepsili Sayaç Göstergeleri"
+
+#: ui/general.ui:39
+msgid "Panel Labels and Popup Menu"
+msgstr "Panel Etiketleri ve Açılır Menü"
