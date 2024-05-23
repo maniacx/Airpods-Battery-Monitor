@@ -1,0 +1,124 @@
+# Hungarian translation for Airpods Battery Monitor.
+# Copyright (C) 2024 maniacx@github.com
+# This file is distributed under the same license as the Airpods Battery Monitor package.
+# ViBE <vibe@protonmail.com>, 2024.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Airpods Battery Monitor\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-04-01 23:35-0700\n"
+"PO-Revision-Date: 2024-05-22 22:49+0200\n"
+"Last-Translator: ViBE <vibe@protonmail.com>\n"
+"Language-Team: Hungarian <vibe@protonmail.com>\n"
+"Language: hu\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+
+#: lib/airpodPanel.js:18 lib/airpodTrayIndicator.js:37
+msgid "AirPods Battery Monitor"
+msgstr "AirPods Battery Monitor"
+
+#: lib/airpodPanel.js:26
+msgid "Headphone Battery Information"
+msgstr "Töltöttségi állapot"
+
+#: lib/airpodPanel.js:253 lib/airpodTrayIndicator.js:245
+msgid "Scanning..."
+msgstr "Keresés..."
+
+#: lib/airpodPanel.js:306 lib/airpodTrayIndicator.js:288
+msgid "Last updated: "
+msgstr "Ellenőrizve: "
+
+#: preferences/about.js:40
+msgid "GNU General Public License, version 3 or later"
+msgstr "GNU General Public License, 3-as vagy későbbi verzió"
+
+#: preferences/about.js:47
+#, javascript-format
+msgid "© %s %s"
+msgstr "© %s %s"
+
+#: preferences/about.js:48
+#, javascript-format
+msgid ""
+"This application comes with absolutely no warranty. See the <a "
+"href=\"%s\">%s</a> for details."
+msgstr ""
+"Erre az alkalmazásra egyáltalán nem vonatkozik garancia. További részletek "
+"a(z) <a href=\"%s\">%s</a> szövegében."
+
+#: preferences/general.js:72
+msgid "(Removed)"
+msgstr "(eltávolítva)"
+
+#: preferences/general.js:73
+msgid "(Paired)"
+msgstr "(párosítva)"
+
+#: preferences/general.js:74
+msgid "(Connected)"
+msgstr "(kapcsolódva)"
+
+#: ui/about.ui:5
+msgid "About"
+msgstr "Névjegy"
+
+#: ui/about.ui:75
+msgid "Read me"
+msgstr "Olvass el"
+
+#: ui/about.ui:97
+msgid "Report an Issue"
+msgstr "Hiba jelentése"
+
+#: ui/about.ui:114 ui/about.ui:197
+msgid "Translations"
+msgstr "Fordítások"
+
+#: ui/about.ui:136
+msgid "View sources on Github"
+msgstr "Forráskód"
+
+#: ui/about.ui:153 ui/about.ui:271
+msgid "Legal"
+msgstr "Jogi információk"
+
+#: ui/about.ui:217
+msgid "Crowdin"
+msgstr "Crowdin fordítás"
+
+#: ui/about.ui:229
+msgid "Online Tutorials"
+msgstr "Segédlet"
+
+#: ui/general.ui:5
+msgid "General"
+msgstr "Általános"
+
+#: ui/general.ui:10
+msgid "Settings"
+msgstr "Beállítások"
+
+#: ui/general.ui:13
+msgid "Choose interface style"
+msgstr "Megjelenés"
+
+#: ui/general.ui:28
+msgid "Choose Model of AirPods"
+msgstr "AirPods modell kiválasztása"
+
+#: ui/general.ui:31
+msgid "No AirPods paired!"
+msgstr "Nincsenek párosított eszközök."
+
+#: ui/general.ui:38
+msgid "Meter Indicators with Message tray"
+msgstr "Ikon és rendszerértesítés megjelenítése"
+
+#: ui/general.ui:39
+msgid "Panel Labels and Popup Menu"
+msgstr "Állapot és ikon megjelenítése az értesítési területen"
