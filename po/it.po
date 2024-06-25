@@ -84,7 +84,7 @@ msgstr "Visualizza sorgenti su Github"
 
 #: ui/about.ui:153 ui/about.ui:271
 msgid "Legal"
-msgstr "Legale"
+msgstr "Informazioni Legali"
 
 #: ui/about.ui:217
 msgid "Crowdin"
