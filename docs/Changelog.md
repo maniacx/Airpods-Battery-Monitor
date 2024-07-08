@@ -8,6 +8,32 @@ permalink: /changelogs
 # Changelogs
 
 {: .important-title }
+> GN-45_Version 12 &emsp;&emsp; Jul 27, 2024
+> * Add support for more devices. Beats Buds, Beats Buds Plus , Beats Solo Pro, Beats Studio Pro, Beats Powerbeats 4
+> * batteryWidget: Add support for H and V SVG Absolute Path commands.
+> * Turkish Translation update. Credit: yakushabb
+> * Hungarian Translation update. Credit: ViBE-HU
+> * Italian Translation update. Credit: albanobattistella
+
+{: .note-title }
+> GN-44_Version 11 &emsp;&emsp; Jul 27, 2024 
+> * Add support for more devices. Beats Buds, Beats Buds Plus , Beats Solo Pro, Beats Studio Pro, Beats Powerbeats 4
+> * batteryWidget: Add support for H and V SVG Absolute Path commands.
+> * Turkish Translation update. Credit: yakushabb
+> * Hungarian Translation update. Credit: ViBE-HU
+> * Italian Translation update. Credit: albanobattistella
+
+{: .important-title }
+> GN-45_Version 10 &emsp;&emsp; Mar 01, 2024 
+> * MessageTray: Adapt to UI changes in Gnome46
+> * Russian Translation update. Credit: Alexmelman88
+
+{: .note-title }
+> GN-44_Version 09 &emsp;&emsp; Mar 01, 2024 
+> * MessageTray: Adapt to UI changes in Gnome46
+> * Russian Translation update. Credit: Alexmelman88
+
+{: .important-title }
 > GN-45_Version 08 &emsp;&emsp; Mar 01, 2024 
 > * Occitan Translation update. Credit: Mejans
 > * Russian Translation update. Credit: Alexmelman88

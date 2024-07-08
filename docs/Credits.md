@@ -128,6 +128,9 @@ https://github.com/delphiki/gnome-airpods-battery-status
 > * Mejans
 > * Toxblh
 > * txelu
+> * aravindhp
+> * lukearran
 > * PetrBalvin
-
+> * yakushabb
+> * Alexmelman88
 
