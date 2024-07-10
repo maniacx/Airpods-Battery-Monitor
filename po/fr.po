@@ -1,0 +1,123 @@
+# FRENCH TRANSLATION.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the Airpod Battery Monitor package.
+# Sam CANDY <>, 2024.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Airpod Battery Monitor\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-10 14:09+0200\n"
+"PO-Revision-Date: 2024-07-10 14:09+0200\n"
+"Last-Translator: Sam CANDY <>\n"
+"Language-Team: French\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: lib/airpodPanel.js:18 lib/airpodTrayIndicator.js:37
+msgid "AirPods Battery Monitor"
+msgstr "Moniteur de batterie d'AirPods"
+
+#: lib/airpodPanel.js:26
+msgid "Headphone Battery Information"
+msgstr "Informations sur la batterie des AirPods"
+
+#: lib/airpodPanel.js:253 lib/airpodTrayIndicator.js:245
+msgid "Scanning..."
+msgstr "Scan en cours..."
+
+#: lib/airpodPanel.js:306 lib/airpodTrayIndicator.js:288
+msgid "Last updated: "
+msgstr "Dernière mise à jour :"
+
+#: preferences/about.js:40
+msgid "GNU General Public License, version 3 or later"
+msgstr "Licence GNU générale publique, version trois ou supérieure"
+
+#: preferences/about.js:47
+#, javascript-format
+msgid "© %s %s"
+msgstr "© %s %s"
+
+#: preferences/about.js:48
+#, javascript-format
+msgid ""
+"This application comes with absolutely no warranty. See the <a "
+"href=\"%s\">%s</a> for details."
+msgstr ""
+"Cette application est fournie sans aucune garantie garantie. Consulter <a "
+"href=\"%s\">%s</a> pour plus d'informations."
+
+#: preferences/general.js:72
+msgid "(Removed)"
+msgstr "(Supprimé)"
+
+#: preferences/general.js:73
+msgid "(Paired)"
+msgstr "(Associé)"
+
+#: preferences/general.js:74
+msgid "(Connected)"
+msgstr "(Connecté)"
+
+#: ui/about.ui:5
+msgid "About"
+msgstr "À propos"
+
+#: ui/about.ui:75
+msgid "Read me"
+msgstr "Lisez-moi"
+
+#: ui/about.ui:97
+msgid "Report an Issue"
+msgstr "Signaler un problème"
+
+#: ui/about.ui:114 ui/about.ui:197
+msgid "Translations"
+msgstr "Traductions"
+
+#: ui/about.ui:136
+msgid "View sources on Github"
+msgstr "Voir les sources sur Github"
+
+#: ui/about.ui:153 ui/about.ui:271
+msgid "Legal"
+msgstr "Informations légales"
+
+#: ui/about.ui:217
+msgid "Crowdin"
+msgstr "Crowdin"
+
+#: ui/about.ui:229
+msgid "Online Tutorials"
+msgstr "Tutoriel en ligne"
+
+#: ui/general.ui:5
+msgid "General"
+msgstr "Général"
+
+#: ui/general.ui:10
+msgid "Settings"
+msgstr "Paramètres"
+
+#: ui/general.ui:13
+msgid "Choose interface style"
+msgstr "Choisir le type d'interface"
+
+#: ui/general.ui:28
+msgid "Choose Model of AirPods"
+msgstr "Choisir le(s) modèle(s) des AirPods"
+
+#: ui/general.ui:31
+msgid "No AirPods paired!"
+msgstr "Aucun AirPod appairé !"
+
+#: ui/general.ui:38
+msgid "Meter Indicators with Message tray"
+msgstr "Indicateur de batterie et notification"
+
+#: ui/general.ui:39
+msgid "Panel Labels and Popup Menu"
+msgstr "Étiquette dans le panneau et fenêtre contextuelle"
