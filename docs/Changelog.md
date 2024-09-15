@@ -8,7 +8,27 @@ permalink: /changelogs
 # Changelogs
 
 {: .important-title }
-> GN-45_Version 12 &emsp;&emsp; Jul 27, 2024
+> GN-45_Version 16 &emsp;&emsp; Sep 14, 2024
+> * metadata.json: Add shell version Gnome 47
+> * French Translation update. Credit: sambonbonne
+> * Swedish Translation update. Credit: jnsson@crowdin
+> * icons: clean-up
+
+{: .note-title }
+> GN-44_Version 15 &emsp;&emsp; Sep 14, 2024 
+> * Translation update
+> * icons: clean-up
+
+{: .important-title }
+> GN-45_Version 14 &emsp;&emsp; Jul 08, 2024
+> * vectors: Fix broken/incorrect paths (mistakes in previous update)
+
+{: .note-title }
+> GN-44_Version 13 &emsp;&emsp; Jul 08, 2024 
+> * vectors: Fix broken/incorrect paths (mistakes in previous update)
+
+{: .important-title }
+> GN-45_Version 12 &emsp;&emsp; Jul 07, 2024
 > * Add support for more devices. Beats Buds, Beats Buds Plus , Beats Solo Pro, Beats Studio Pro, Beats Powerbeats 4
 > * batteryWidget: Add support for H and V SVG Absolute Path commands.
 > * Turkish Translation update. Credit: yakushabb
@@ -16,7 +36,7 @@ permalink: /changelogs
 > * Italian Translation update. Credit: albanobattistella
 
 {: .note-title }
-> GN-44_Version 11 &emsp;&emsp; Jul 27, 2024 
+> GN-44_Version 11 &emsp;&emsp; Jul 07, 2024 
 > * Add support for more devices. Beats Buds, Beats Buds Plus , Beats Solo Pro, Beats Studio Pro, Beats Powerbeats 4
 > * batteryWidget: Add support for H and V SVG Absolute Path commands.
 > * Turkish Translation update. Credit: yakushabb
