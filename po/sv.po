@@ -1,0 +1,124 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: airpod-battery-monitor\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-09-14 19:37-0700\n"
+"PO-Revision-Date: 2024-09-15 02:29\n"
+"Last-Translator: \n"
+"Language-Team: Swedish\n"
+"Language: sv_SE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: airpod-battery-monitor\n"
+"X-Crowdin-Project-ID: 650126\n"
+"X-Crowdin-Language: sv-SE\n"
+"X-Crowdin-File: /po/Airpod-Battery-Monitor.pot\n"
+"X-Crowdin-File-ID: 82\n"
+
+#: lib/airpodPanel.js:20
+msgid "AirPods Battery Monitor"
+msgstr "AirPods Batterimonitor"
+
+#: lib/airpodPanel.js:28
+msgid "Headphone Battery Information"
+msgstr "Batteriinformation för hörlur"
+
+#: lib/airpodPanel.js:255 lib/airpodTrayIndicator.js:233
+msgid "Scanning..."
+msgstr "Skannar..."
+
+#: lib/airpodPanel.js:308 lib/airpodTrayIndicator.js:276
+msgid "Last updated: "
+msgstr "Senast uppdaterad: "
+
+#: preferences/about.js:42
+msgid "GNU General Public License, version 3 or later"
+msgstr "GNU General Public License, version 3 eller senare"
+
+#: preferences/about.js:49
+#, javascript-format
+msgid "© %s %s"
+msgstr "©️ %s %s"
+
+#: preferences/about.js:50
+#, javascript-format
+msgid ""
+"This application comes with absolutely no warranty. See the <a "
+"href=\"%s\">%s</a> for details."
+msgstr ""
+"Detta program levereras utan någon form av garanti. Se <a href=\"%s\">%s</a> "
+"för detaljer."
+
+#: preferences/general.js:74
+msgid "(Removed)"
+msgstr "(Borttagen)"
+
+#: preferences/general.js:75
+msgid "(Paired)"
+msgstr "(Kopplad)"
+
+#: preferences/general.js:76
+msgid "(Connected)"
+msgstr "(Ansluten)"
+
+#: ui/about.ui:5
+msgid "About"
+msgstr "Om"
+
+#: ui/about.ui:75
+msgid "Read me"
+msgstr "Läs mig"
+
+#: ui/about.ui:97
+msgid "Report an Issue"
+msgstr "Rapportera ett problem"
+
+#: ui/about.ui:114 ui/about.ui:197
+msgid "Translations"
+msgstr "Översättningar"
+
+#: ui/about.ui:136
+msgid "View sources on Github"
+msgstr "Visa källkoden på Github"
+
+#: ui/about.ui:153 ui/about.ui:271
+msgid "Legal"
+msgstr "Juridisk information"
+
+#: ui/about.ui:217
+msgid "Crowdin"
+msgstr "Crowdin"
+
+#: ui/about.ui:229
+msgid "Online Tutorials"
+msgstr "Handledningar online"
+
+#: ui/general.ui:5
+msgid "General"
+msgstr "Allmänt"
+
+#: ui/general.ui:10
+msgid "Settings"
+msgstr "Inställningar"
+
+#: ui/general.ui:13
+msgid "Choose interface style"
+msgstr "Välj stil för gränssnitt"
+
+#: ui/general.ui:28
+msgid "Choose Model of AirPods"
+msgstr "Välj modell av AirPods"
+
+#: ui/general.ui:31
+msgid "No AirPods paired!"
+msgstr "Inga kopplade AirPods!"
+
+#: ui/general.ui:38
+msgid "Meter Indicators with Message tray"
+msgstr "Indikatorer för mätare med meddelandefältet"
+
+#: ui/general.ui:39
+msgid "Panel Labels and Popup Menu"
+msgstr "Paneletiketter och popup-meny"
