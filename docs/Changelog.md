@@ -8,6 +8,14 @@ permalink: /changelogs
 # Changelogs
 
 {: .important-title }
+> GN-45_Version 16 &emsp;&emsp; Sep 25, 2024
+> * Add support to Airpod 4/4ANC. Credits: jleary
+
+{: .note-title }
+> GN-44_Version 15 &emsp;&emsp; Sep 25, 2024 
+> * Add support to Airpod 4/4ANC. Credits: jleary
+
+{: .important-title }
 > GN-45_Version 16 &emsp;&emsp; Sep 14, 2024
 > * metadata.json: Add shell version Gnome 47
 > * French Translation update. Credit: sambonbonne
