@@ -8,11 +8,19 @@ permalink: /changelogs
 # Changelogs
 
 {: .important-title }
-> GN-45_Version 16 &emsp;&emsp; Sep 25, 2024
+> GN-45_Version 20 &emsp;&emsp; Feb 12, 2025
+> * Add support to Airpod Max USBC. Credits: favhly
+
+{: .note-title }
+> GN-44_Version 19 &emsp;&emsp; Feb 12, 2025 
+> * Add support to Airpod Max USBC. Credits: favhly
+
+{: .important-title }
+> GN-45_Version 18 &emsp;&emsp; Sep 25, 2024
 > * Add support to Airpod 4/4ANC. Credits: jleary
 
 {: .note-title }
-> GN-44_Version 15 &emsp;&emsp; Sep 25, 2024 
+> GN-44_Version 17 &emsp;&emsp; Sep 25, 2024 
 > * Add support to Airpod 4/4ANC. Credits: jleary
 
 {: .important-title }
